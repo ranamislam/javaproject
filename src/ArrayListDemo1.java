@@ -4,6 +4,7 @@ public class ArrayListDemo1
     public static void main(String[] args)
     {
         ArrayList<String> nameList = new ArrayList<String>();
+        int num = 0;
         nameList.add("James");
         nameList.add("Catherine");
         nameList.add("Bill");
